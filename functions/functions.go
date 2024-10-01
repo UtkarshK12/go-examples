@@ -14,6 +14,10 @@ func main(){
 
 	res3, res4:=sumAndMult(2,3)
 	fmt.Println(res3, res4)
+
+	VariadicFn()
+
+	Closures()
 }
 
 
